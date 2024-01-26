@@ -76,7 +76,8 @@ MasCode extends an invitation to those who value subtlety and sophistication in 
 
 
 ### you can use the given python script to just test it digitaly
->tested on linux (the sox package should be installed)
+> tested on linux (the sox package should be installed)
+
 * F1 key = . 
 * F2 key = _
 * F4 key = /
