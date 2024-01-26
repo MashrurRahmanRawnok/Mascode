@@ -73,3 +73,11 @@ In the discreet dance of dots, underscores, and slashes, here's the MasCode char
 | ID        | ---...     |
 
 MasCode extends an invitation to those who value subtlety and sophistication in their encrypted communication. May your messages remain discreet, and your coded language refined.
+
+
+### you can use the given python script to just test it digitaly
+
+* F1 key = . 
+* F2 key = _
+* F4 key = /
+> you can modify the keys in the python script
