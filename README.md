@@ -1,0 +1,2 @@
+# Mascode
+Cool Encoding Method
